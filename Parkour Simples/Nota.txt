@@ -1,0 +1,1 @@
+<font size="50"> =Parkour simples= </font> <br/><font color="rgb(255, 188, 106)">v0.00.3a - 0.0.1 (alpha)</font><br/><br/> - Fase 3 terminada <br/> - Bug resolvidos <br/>  |Ficar invisivel depois de cair no "void"<br/>  |Sair da área permitida e permanecer vivo.
